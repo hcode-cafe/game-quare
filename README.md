@@ -7,7 +7,8 @@
 <div align="center">
     <a href="https://hcode-game-square.github.io/">Site onde o Projeto é Carregado!</a>
 </div>
-
+<br>
+<br>
 <div align="center">
     <p align="center">
     <a href="https://go.hcode.com.br/RsdXu3">
@@ -28,9 +29,5 @@
     <a href="mailto:suporte@hcode.com.br">
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=suporte@hcode.com.br&color=f0743e">
     </a>
-</p>
+    </p>
 </div>
-
-<div align="center">
-    <a href="https://www.youtube.com/hashtag/hcodecaf%C3%A9">#HcodeCafé</a>
-<div>
